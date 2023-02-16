@@ -1,4 +1,7 @@
-<h1 align="center">Todo React App  📝</h1>  
+
+<h1 align="center">Todo React App  📝</h1> 
+<h2 align="center">Hosted</h2><h2>https://todo-react-cn.netlify.app/</h2>
+ 
 <p align="center">
   🖊️ A simple Todo App built using <a href="https://reactjs.org/">React</a> and <a href="https://mantine.dev/">Mantine UI</a>
 </p>
